@@ -25,7 +25,7 @@ SECRET_KEY = '*yd1@p=p2h^3nm=9suj=69v61l_j258@k&8x$vkrii@=_3^nwy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pizzaapiapp.herokuapp.com']
+ALLOWED_HOSTS = ['https://pizzaapiapp.herokuapp.com','pizzaapiapp.herokuapp.com']
 
 
 # Application definition
